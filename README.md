@@ -57,7 +57,7 @@ With detailed explanations and code, this project aims to bridge AI capabilities
     ```bash
     pip install -r requirements.txt
     ```
-    **Required Libraries**: `torch`, `llava-torch`, `transformers`, `accelerate`, `bitsandbytes`, `PIL`, `glob`, `requests`【45†source】.
+    **Required Libraries**: `torch`, `llava-torch`, `transformers`, `accelerate`, `bitsandbytes`, `PIL`, `glob`, `requests`.
 
 ---
 
@@ -98,7 +98,7 @@ Explore these practical applications of Llava in the construction industry:
 
 ## 🙏 Acknowledgments
 
-Special thanks to **Venelin Valkov** for providing educational resources on large language models that contributed to this project’s development【44†source】.
+Special thanks to **Venelin Valkov** for providing educational resources on large language models that contributed to this project’s development.
 
 ---
 
