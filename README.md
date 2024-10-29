@@ -5,13 +5,13 @@ Welcome to the **Llava-Powered Image and OCR Querying** repository! This project
 ---
 
 ## 📑 Table of Contents
-1. [📋 Project Overview](#project-overview)
-2. [✨ Key Features](#key-features)
-3. [🔧 Installation & Setup](#installation--setup)
-4. [🛠️ Usage Guide](#usage-guide)
-5. [🏗️ Construction Use Cases](#construction-use-cases)
-6. [🚀 Future Enhancements](#future-enhancements)
-7. [🙏 Acknowledgments](#acknowledgments)
+1. [📋 Project Overview](#-Project-Overview)
+2. [✨ Key Features](#-Key-Features)
+3. [🔧 Installation & Setup](#-installation--setup)
+4. [🛠️ Usage Guide](#-usage-guide)
+5. [🏗️ Construction Use Cases](#-construction-use-cases)
+6. [🚀 Future Enhancements](#-future-enhancements)
+7. [🙏 Acknowledgments](#-acknowledgments)
 8. [🔗 General Links & Resources](#-general-links--resources)
 
 ---
