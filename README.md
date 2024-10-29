@@ -96,7 +96,7 @@ Explore these practical applications of Llava in the construction industry:
 
 ---
 
-🙏## Acknowledgments
+## 🙏 Acknowledgments
 
 Special thanks to **Venelin Valkov** for providing educational resources on large language models that contributed to this project’s development.
 
