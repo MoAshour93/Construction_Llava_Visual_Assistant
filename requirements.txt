@@ -1,0 +1,8 @@
+glob    
+requests    
+transformers
+PIL    
+accelerate        
+bitsandbytes    
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+llava-torch
